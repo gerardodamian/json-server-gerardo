@@ -1,0 +1,64 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJs desde cero"
+        },
+        {
+          "nombre": "React desde cero"
+        },
+        {
+          "nombre": "JavaScript desde cero"
+        }
+      ],
+      "id": "b995"
+    },
+    {
+      "nombre": "quimica desde cero",
+      "id": "792e"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "Apellido": "Bustamante",
+      "promedio": 8.2,
+      "id": "be29"
+    },
+    {
+      "nombre": "Alfonsina",
+      "Apellido": "Storni",
+      "promedio": 10,
+      "id": "7126"
+    },
+    {
+      "id": "c341",
+      "nombre": "Carlos",
+      "Apellido": "Sainz",
+      "promedio": 9.2
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs desde cero",
+      "duración": 7,
+      "dificultad": "intermedia",
+      "id": "a08f"
+    },
+    {
+      "nombre": "React desde cero",
+      "duración": 8,
+      "dificultad": "intermedia",
+      "id": "9407"
+    },
+    {
+      "nombre": "JavaScript desde cero",
+      "duración": 8,
+      "dificultad": "alta",
+      "id": "0a24"
+    }
+  ]
+}
